@@ -13,7 +13,7 @@ function minNum(a, b, c) {
 }
 console.log(minNum(-55, -99, 0));
 
-// Task 3___________&
+// Task 3___________?
 function minAndMax(a, b, c) {
   
 }
