@@ -13,9 +13,9 @@ function minNum(a, b, c) {
 }
 console.log(minNum(-55, -99, 0));
 
-// Task 3___________?
+// Task 3_______________________________
 function minAndMax(a, b, c) {
-  
+  return [Math.min(a,b,c), Math.max(a,b,c)]
 }
 console.log(minAndMax(20, 12, 2));
 
